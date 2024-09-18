@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://storef-muri-2-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "54f47d0c3001f088773d732ba2ddebff2d298ef3843fa931548d1a56143881c8acadf3dafbc7184899fdb529bf4749fc0783279fa4792716e335a8bbdb617ce46ef335dd53ab1691007ca555e40bbab9aae6d8368ade456ec7542bca80f93ab1771fa312463bdc8291e2e6caa7e0c7c1360094cd25b94730d0f2a754db3856156674d6084f63951dd4585fe575230cdd815e969069583656c7e06f9532bc59d0b0d19ee31beb1b4cde009e188383e55f6fda8cb3412e5e2f47e48f8c0c710112fb200eba9f6b40243be6c13fd0834feacf578b9726e4742e476697a53455404e"
+  }
+}
